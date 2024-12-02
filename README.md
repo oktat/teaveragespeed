@@ -2,6 +2,10 @@
 
 Átlagsebesség számítása, JavaScript alkalmazásban, tesztelésre szánva.
 
+## Megoldott feladat
+
+* [Feladat](https://szit.hu/doku.php?id=oktatas:programozas:feladatok:altalanos#feladat_0309)
+
 ## Telepítés
 
 ```cmd

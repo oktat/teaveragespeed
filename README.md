@@ -6,6 +6,10 @@
 
 * [Feladat](https://szit.hu/doku.php?id=oktatas:programozas:feladatok:altalanos#feladat_0309)
 
+## Online működő változat
+
+* [Online működő](https://szit.hu/m/teaveragespeed)
+
 ## Telepítés
 
 ```cmd
